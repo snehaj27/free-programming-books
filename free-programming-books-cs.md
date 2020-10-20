@@ -16,7 +16,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
   * [Distribuce](#distribuce)
-* [OpenSource](#opensource)
+* [OpenSource](#opensource)j;
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
